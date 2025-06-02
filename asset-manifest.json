@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.36c4d561.css",
+    "main.js": "/app/static/js/main.4213f189.js",
+    "static/js/453.a6a97343.chunk.js": "/app/static/js/453.a6a97343.chunk.js",
+    "static/media/about.png": "/app/static/media/about.24419e4af8d664367e0b.png",
+    "static/media/profile.jpg": "/app/static/media/profile.dfe754645f90e7f4488a.jpg",
+    "static/media/profile_2.jpg": "/app/static/media/profile_2.bb31b054736a7a4d136e.jpg",
+    "static/media/Geson-Kachappilly-Cv.pdf": "/app/static/media/Geson-Kachappilly-Cv.72e0c6680969ddae1602.pdf",
+    "index.html": "/app/index.html",
+    "main.36c4d561.css.map": "/app/static/css/main.36c4d561.css.map",
+    "main.4213f189.js.map": "/app/static/js/main.4213f189.js.map",
+    "453.a6a97343.chunk.js.map": "/app/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36c4d561.css",
+    "static/js/main.4213f189.js"
+  ]
+}
