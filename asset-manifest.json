@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c541bce9.css",
-    "main.js": "/static/js/main.44a5affd.js",
+    "main.css": "/static/css/main.9738e035.css",
+    "main.js": "/static/js/main.1e09ce9a.js",
     "static/js/453.a6a97343.chunk.js": "/static/js/453.a6a97343.chunk.js",
     "static/media/about.png": "/static/media/about.24419e4af8d664367e0b.png",
+    "static/media/profile1.jpg": "/static/media/profile1.55bea76736893b485ebf.jpg",
     "static/media/profile.jpg": "/static/media/profile.dfe754645f90e7f4488a.jpg",
-    "static/media/profile_2.jpg": "/static/media/profile_2.bb31b054736a7a4d136e.jpg",
     "static/media/Geson-Kachappilly-Cv.pdf": "/static/media/Geson-Kachappilly-Cv.72e0c6680969ddae1602.pdf",
     "index.html": "/index.html",
-    "main.c541bce9.css.map": "/static/css/main.c541bce9.css.map",
-    "main.44a5affd.js.map": "/static/js/main.44a5affd.js.map",
+    "main.9738e035.css.map": "/static/css/main.9738e035.css.map",
+    "main.1e09ce9a.js.map": "/static/js/main.1e09ce9a.js.map",
     "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c541bce9.css",
-    "static/js/main.44a5affd.js"
+    "static/css/main.9738e035.css",
+    "static/js/main.1e09ce9a.js"
   ]
 }
